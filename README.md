@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay Pawar</h1>
 <h3 align="center">I am pursuing my B.E. in Computer Science & Enggineering degree and working to be successful Ethical Hacker and Bug Bounty Hunter from India.</h3>
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
+<img align="center" alt="coding" width="500" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaypawar23&label=Profile%20views&color=0e75b6&style=flat" alt="ajaypawar23" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaypawar23" alt="ajaypawar23" /></a> </p>
