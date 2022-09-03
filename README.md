@@ -15,6 +15,8 @@
 
 - 📫 How to reach me... **ajaypawar7567@gmail.com**
 
+- 📄 Wanna know more about me here is my <a href="https://drive.google.com/drive/folders/1vES3ZtPqDxX2ytIdUkNsjB72ggMk6Sgh" target="blank"> Curriculum Vitae</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ajaypawar023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajaypawar023" height="30" width="40" /></a>
